@@ -58,6 +58,7 @@
 }
 .about__content p {
   margin: 2rem 0 2.7rem 0;
+  text-align: center;
 }
 .about-btn {
   padding: 15px 20px;
